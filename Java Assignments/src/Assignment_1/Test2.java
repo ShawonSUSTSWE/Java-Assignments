@@ -3,6 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+// This file is related to ObjPass2.java
+
 package Assignment_1;
 
 /**
