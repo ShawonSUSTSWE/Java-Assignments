@@ -3,6 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+// ObjPass1 and ObjPass2 both shows the same methods of passing objects
+
 package Assignment_1;
 
 /**
